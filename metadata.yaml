@@ -1,10 +1,16 @@
 _repo: John-Stevens-Courtship-A-Story-of-the-Echo-Canyon-War_50312
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50312-h/images/cover.jpg
 creator:
   author:
     agent_name: Gates, Susa Young
     gutenberg_agent_id: '45814'
     url: http://www.gutenberg.org/2009/agents/45814
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50312#John-Stevens-Courtship-A-Story-of-the-Echo-Canyon-War
 gutenberg_issued: '2015-10-26'
 gutenberg_type: Text
 identifiers:
